@@ -1,0 +1,8 @@
+
+.navBar {
+    border: 1px dotted rgb(216, 216, 216);
+    border-radius: 20px;
+    padding: 30px;
+    width: 75%;
+    margin: auto;
+}
